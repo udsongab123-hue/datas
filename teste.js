@@ -254,6 +254,24 @@ const comemoracoes = {
         }
     ],
 
+   "09-16": [
+        {
+            nome: "Dia do Caminhoneiro",
+            tipo: "nacional",
+            emoji: "🚛",
+            descricao:
+                "Data oficial nacional no Brasil, instituída pela Lei nº 11.927/2009."
+        },
+
+      {
+            nome: "Dia da prevenção da CAMADA DE OZÔNIO",
+            tipo: "internacional",
+            emoji: "🌏",
+            descricao:
+                "data oficializada pela ONU para lembrar a assinatura do Protocolo de Montreal em 1987."
+        }
+    ],
+
     "09-21": [
         {
             nome: "Dia Internacional da Paz",
